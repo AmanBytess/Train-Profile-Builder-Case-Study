@@ -92,3 +92,20 @@ My work involved:
 **Database:** PostgreSQL
 
 The project provided practical experience in data processing, software integration, validation and building applications around real-world engineering problems.
+
+
+
+
+## Demo and Sample Outputs
+
+This section will showcase selected outputs from the Train Profile Builder using approved demonstration materials.
+
+Planned materials include:
+
+- **Dashboard Preview:** An overview of the dashboard interface.
+- **Train Profile Visualization:** An example of a generated train profile.
+- **Validation Report:** A sample summary of profile validation results.
+
+Any examples shared publicly will use synthetic data and will exclude confidential information and operational records.
+
+*Demo screenshots and sample outputs will be added after review and approval.*
