@@ -63,3 +63,32 @@ No original application source code or operational data is included.
 ## Acknowledgements
 
 This case study describes experience gained during an internship. It does not imply endorsement by CRIS.
+
+
+
+
+## My Role and Contributions
+
+During my internship with the RFID team at the Centre for Railway Information Systems (CRIS), I contributed to the development of a Train Profile Builder.
+
+My work involved:
+
+- Contributing to sensor-data processing and train-profile construction.
+- Working with RFID tag reads and Train Presence Detection (TPD) sensor data.
+- Contributing to validation logic for the generated train profiles.
+- Working with machine learning and dashboard components.
+- Collaborating with the team to develop and integrate different parts of the application.
+
+## Technical Skills Applied
+
+**Programming:** Python
+
+**Data Processing:** pandas
+
+**Machine Learning:** scikit-learn, Random Forest
+
+**Backend and Dashboard:** Flask
+
+**Database:** PostgreSQL
+
+The project provided practical experience in data processing, software integration, validation and building applications around real-world engineering problems.
