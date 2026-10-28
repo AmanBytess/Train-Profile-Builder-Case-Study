@@ -48,6 +48,12 @@ This project helped me develop a better understanding of applied software engine
 
 Approved screenshots, an architecture diagram and additional technical documentation can be added here as they become available.
 
+## System Architecture
+
+The following diagram presents a conceptual overview of the system workflow.
+
+![Train Profile Builder Architecture](architecture.png)
+
 ## Scope and Limitations
 
 This repository is intended to document project experience and technical concepts. It is not the original application, an official CRIS software release or an operational railway system.
