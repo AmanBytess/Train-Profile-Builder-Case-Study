@@ -108,4 +108,9 @@ Planned materials include:
 
 Any examples shared publicly will use synthetic data and will exclude confidential information and operational records.
 
-*Demo screenshots and sample outputs will be added after review and approval.*
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Train Profile
+![Train Profile](train-profile.png)
+
